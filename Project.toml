@@ -1,4 +1,4 @@
 name = "TensorDecompSTFT"
 uuid = "7cc29fb0-3c2d-4675-a505-a9bcd44018e8"
-authors = ["Nicholas Richardson <njericha@uwaterloo.ca>"]
+authors = ["Nicholas Richardson <njericha@math.ubc.ca>"]
 version = "0.1.0"
