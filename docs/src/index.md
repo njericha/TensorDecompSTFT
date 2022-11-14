@@ -15,4 +15,8 @@ P(a + bϵ) &= p_0 + p_1 (a + bϵ) + \cdots + p_n (a + bϵ)^n \\
 \end{aligned}
 ```
 
+```@docs
+mySTFT
+```
+
 

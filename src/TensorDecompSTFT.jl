@@ -33,9 +33,9 @@ function _stft(x_odd_extention, window)
 end
 
 """
-    STFT(x::Vector{Complex}, t::Vector{Real}, width::Real)
+    mySTFT(x::Vector{Complex}, t::Vector{Real}, width::Real)
 
-Takes ```math x(t)``` and returns the STFT of x, X, and the frequencies k.
+Takes \$x(t)\$ and returns the STFT of x, X, and the frequencies k.
 A Gaussian window is used with the width needed as an input.
 
 Example:
