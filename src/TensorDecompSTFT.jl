@@ -1,13 +1,6 @@
 module TensorDecompSTFT
 
-export greet
-
-"""
-    greet(::Any)
-
-Prints "Hello World!"
-"""
-greet() = print("Hello World!")
+export hann, triangle
 
 using STFT
 
@@ -36,7 +29,7 @@ end
 
 """
     songread(n::Int)
-Wrapper to open a song file
+Wrapper to open a song file and return the song, time points, and sample rate
 """
 
 function songread(filename::String)

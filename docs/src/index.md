@@ -1,7 +1,7 @@
 # Musical STFT Tensor Decomposition
 
 ```@docs
-greet
+hann
 ```
 
 Testing out some math as well
