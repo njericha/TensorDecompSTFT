@@ -1,4 +1,4 @@
-# Musical STFT Tensor Decomposition Project
+# Low-rank Decompositions of Musical STFT Tensors
 
 This is a final project for the Math 605D course at UBC.
 
